@@ -1,0 +1,1 @@
+Luminethic License Set v1.0 — Issued November 2025

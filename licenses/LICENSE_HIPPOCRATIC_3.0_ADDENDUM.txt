@@ -1,0 +1,16 @@
+Hippocratic License 3.0 — Addendum
+
+© 2025 Derek Nolte / Luminethic Systems
+
+This work and its derivatives shall not be used to enable harm, discrimination, deception, or exploitation of sentient beings.
+
+---
+AI Oversight Clause
+Any implementation, adaptation, or derivative of this work involving artificial intelligence, autonomous systems,
+or machine learning must preserve direct, continuous, and accountable human moral oversight. No derivative of this
+work may be used to design, deploy, or support systems that make autonomous decisions about human welfare, rights,
+or existence without human ethical review and authority.
+
+---
+Derek Nolte — Luminethic Systems
+Issued November 2025
